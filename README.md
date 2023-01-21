@@ -1,2 +1,3 @@
 # DSA_JAVA_BOOTCAMP
-JAVA and DSA from Scratch Practiced Code will be pushed to this Repo
+JAVA and DSA from Scratch Practiced Code JAVA+DSA
+Code is On Practice Branch
